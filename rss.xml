@@ -4,7 +4,7 @@
         <title>AmadorZcv blog</title>
         <link>https://amadorzcv.github.io/posts</link>
         <description>Blogs posts from AmadorZcv about software and random stuff</description>
-        <lastBuildDate>Tue, 14 May 2019 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2019 00:22:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Elmstatic</generator>
         <language>en</language>
@@ -38,6 +38,21 @@ view header contentElems =
                 [ width <| px 800, spacingXY 0 10, alignLeft ]
                 contentElems
  ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Teaching Redux]]></title>
+            <link>https://amadorzcv.github.io/posts/2019-05-16-challenges-redux</link>
+            <guid>https://amadorzcv.github.io/posts/2019-05-16-challenges-redux</guid>
+            <pubDate>Thu, 16 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Background
+
+I've been tasked with doing a course to introduce redux at my college.
+I have 4 days of classes to introduce redux to my lab partners and freshman alike, applying its concepts in a pratical manner to react
+But why
+The first question that pops in my head is why learn redux, when to use redux and more importantly when not to use redux.
+
+Redux is a state management tool that makes you think of state in a way that makes it predictable, debuggable and testable, it's widely used on the in...]]></description>
         </item>
         <item>
             <title><![CDATA[All posts]]></title>
